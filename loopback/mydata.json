@@ -1,0 +1,24 @@
+{
+  "ids": {
+    "User": 2,
+    "AccessToken": 2,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "cat": 2
+  },
+  "models": {
+    "User": {
+      "1": "{\"password\":\"$2a$10$1IEG6n36DWU/sNezbsYZVuz.iQ.Uw.Ub1dvm8CPaP6TsGamlpvkwK\",\"email\":\"the1@gmail.com\",\"id\":1}"
+    },
+    "AccessToken": {
+      "pBaPRuzpFXOByIzMJumBqT4M5maTlDmuUosmHscmAR2mhpUySvyhFme5GmtEV1hj": "{\"id\":\"pBaPRuzpFXOByIzMJumBqT4M5maTlDmuUosmHscmAR2mhpUySvyhFme5GmtEV1hj\",\"ttl\":1209600,\"created\":\"2018-03-09T22:31:07.312Z\",\"userId\":1}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "cat": {
+      "1": "{\"name\":\"mowzer\",\"age\":2,\"gender\":\"male\",\"breed\":\"himalayan\",\"id\":1}"
+    }
+  }
+}
